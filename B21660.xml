@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The lambe still pursuing the wolfe as may appear by the four within named letters truly duplicated and printed / by Tho. Elslyott, Armig' Arm. Conq.</title>
+            <author>Elslyott, Thomas.</author>
+         </titleStmt>
+         <extent>Approx. 15KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B21660</idno><idno type="EEBO-CITATION">11230136</idno>
+  <idno type="VID">204924</idno>
+  <idno type="EEBO-PROQUEST">2240906861</idno>
+  
+            <idno type="STC">Wing E639A</idno>
+            <idno type="OCLC">11230136</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B21660)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 204924)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:42)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The lambe still pursuing the wolfe as may appear by the four within named letters truly duplicated and printed / by Tho. Elslyott, Armig' Arm. Conq.</title>
+                  <author>Elslyott, Thomas.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1651 [i.e. 1652]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-12 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-12 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb facs="tcp:204924:1"/>
+            <pb n="1" facs="tcp:204924:1"/>
+            <head>THE LAMBE Still pursuing the WOLFE: As may appear by the Four within named LETTERS truly Dupli<g ref="char:EOLhyphen"/>cated and Printed.</head>
+            <byline>By <hi>Tho. Elslyott,</hi> Armig’ Arm. Conq;</byline>
+            <opener>
+               <salute>WORTHY SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S I have alwayes known you to be a worthy Patriot of the known and fundamental Lawes of this Nation, and an equall Justicier in all Civil af<g ref="char:EOLhyphen"/>fairs, and hearing that you be Chair<g ref="char:EOLhyphen"/>man of the Committee appointed by the Honorable Parl ament of the Common-wealth of <hi>England,</hi> upon the great businesse now in agitation betwixt Mr. <hi>Primate</hi> and Sir <hi>Arthur Haslerigge.</hi> I a mem<g ref="char:EOLhyphen"/>ber of Jesus Christ, and of this present Common-wealth, doe civily admonish you that you be cautious how M. <hi>Prideaux,</hi> a person impeached of high treason legally,
+<pb n="2" facs="tcp:204924:2"/> and Mr. <hi>Blagrave</hi> and <hi>All<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n</hi> late Members of the Commit<g ref="char:EOLhyphen"/>tee of Indempnity, and appelled for unjustice, before the Honorable Parliament, (being in their capacities neither <hi>(probi vel legales homines)</hi> by the Law of this Nation, until they have received their trials) doe come to that honorable Committee, or any other, to act, or vote, as Members of Par<g ref="char:EOLhyphen"/>liament, the Supreme Judicature of this Nation, until they be legally acquitted of their several crimes, and lest you should be ignorant of the truth hereof, I have herein sent to you the A<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ticles of High Treason, remaining upon Record in the Capital Office against the one, and the true Coppy of the Appeal remaining in Parliament, against the other; which I desire you to communicate to that Honorable Commi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tee; if either of the malefactors presume to come to that Com<g ref="char:EOLhyphen"/>mittee, that your self hereafter be void of blame and so I rest.</p>
+            <closer>
+               <dateline>Given from my Lodgings, at Mr. <hi>Par<g ref="char:EOLhyphen"/>son</hi>'s in the Woolstaple. <hi>Westmin<g ref="char:EOLhyphen"/>ster,</hi>
+                  <date>this 27, of <hi>December,</hi> 1651.</date>
+               </dateline>
+               <signed>Your humble Servant, and Member of Jesus Christ, and of this Common-wealth. <hi>Thomas Elsliot,</hi> Ar. Ar. Conq.</signed>
+            </closer>
+         </div>
+         <div type="letter">
+            <opener>
+               <salute>Worthy, Sir;</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">A</seg>S <hi>I</hi> have always known you to be a worthy Patriot of the known and Fundamentall Laws of this Nation, and an equall Justici<g ref="char:EOLhyphen"/>er in all civil Affairs, and hearing that you be a Member of the Committee appointed by the Honorable Parliament of the Com<g ref="char:EOLhyphen"/>monwealth of England, upon the great business now in a<g ref="char:EOLhyphen"/>gitation betwixt Mr. Primat and Sir Arthur Haslerig; I a Member of Jesus Christ and of this present Commonwealth, do civilly admonish you that you be cautious how Mr. Pride<g ref="char:EOLhyphen"/>aux a person impeached of High Treason legally, and Mr. Blagrave and Allen, late a Member of the committee of Indempnity, and appelled for unjustice, before the Hono<g ref="char:EOLhyphen"/>rable Parliament (being in their capacities, neither <hi>(probi
+<pb n="3" facs="tcp:204924:2"/> vel legales homines)</hi> by the Law of this Nation, untill they have received their Tryals) do come to that Honorable Committee, or any other, to Act or Vote, as Members of Parliament, the Supream Judicatu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e of this Nation, untill they be legally acquitted of their several crimes; and lest you should be ignorant or the truth hereof, I have herein sent to you the Articles of High Treason, remaining upon Re<g ref="char:EOLhyphen"/>cord in the Capitall Office against the one, and the true co<g ref="char:EOLhyphen"/>pie of the Appeal remaining in Parliament against the other, which I desire you to communicate to that honorable com<g ref="char:EOLhyphen"/>mittee, if either of the Malefactors presume to come to that committee, that your self hereafter be void of blame, and so I rest;</p>
+            <closer>
+               <dateline>Given from my Lodgings at Mr. <hi>Parsons</hi> in the <hi>Wolsta<g ref="char:EOLhyphen"/>ple, Westminster</hi>
+                  <date>this 27 of <hi>December</hi> 1651.</date>
+               </dateline>
+               <signed>Your humble Servant, and mem<g ref="char:EOLhyphen"/>ber of Jesus Christ, and of this Commonwealth. Tho. Elsliot, Ar. Ar. Conq.</signed>
+            </closer>
+            <postscript>
+               <p>These Letters were delivered to the two above named persons, about 12 of the Clock upon <hi>Saturday,</hi> the same 27 of <hi>December,</hi> 1651. By <hi>William Arwaker,</hi> in presence of Mr. <hi>George Brag,</hi> and Mr. <hi>John Caudler.</hi>
+               </p>
+            </postscript>
+            <postscript>
+               <p>Thus indorsed to Mr, <hi>Hill,</hi> a worthy Member of Parlia<g ref="char:EOLhyphen"/>ment, and Chairman of the select Committee for the businesse between Mr. <hi>Primate</hi> and Sir <hi>Arthur Ha<g ref="char:EOLhyphen"/>slerigg,</hi> these present forthwith: And the other in<g ref="char:EOLhyphen"/>indorsed to Mr. <hi>Lilliborn Long,</hi> a worthy Member of Parliament of the select Committee for the busi<g ref="char:EOLhyphen"/>nesse btweeen Mr. <hi>Primate</hi> and Sir <hi>Arthur Hasle<g ref="char:EOLhyphen"/>rigg, these present,</hi>
+               </p>
+               <closer>
+                  <signed>By <hi>Thomas Elsliot Ar. Ar. Conq.</hi>
+                  </signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="4" facs="tcp:204924:3"/>
+            <opener>
+               <salute>Mr. <hi>Speaker,</hi>
+               </salute>
+            </opener>
+            <p>VVITH my duty and humble service presented hereby to your Honour, and the Honorable Par<g ref="char:EOLhyphen"/>liament of the Common-wealth of <hi>England,</hi> the Supreme Judicature of the people of this Nation; I having alwayes known your Honours to be the most just Patriots, of the known and fundamental Lawes of this Nation, and just and equal Justiciers in all the civil affairs of this Common-wealth, and hearing that (Mr. <hi>Prideaux,</hi> a person impeached long since of High Treason legally, and that Mr. <hi>Blagrave,</hi> and Mr. <hi>Allen,</hi> late members of the Honorable Committee of Indempnity appelled by my self in my several capacities for unjustice before your Honours in Parliament, and so now being neither <hi>(probi vell legales homines)</hi> of this Common-wealth, in their capacities, until they have received their trials, and be legally acquitted for their several crimes) yet do still persume to repair to the Honorable Parliament, and do sit among the worthy members of that great Assembly, and Vote, and Act amongst them (as if the one had never been impeached, and as if the other had never been appel<g ref="char:EOLhyphen"/>led) to the great dishonour of Almighty God, scandal to the Honourable Parliament of <hi>England,</hi> and offence to my self, and divers others freeborn persons of this Common-wealth, who conceive they have as good an interest in the Parliament of <hi>England,</hi> as any others that have either elect<g ref="char:EOLhyphen"/>ed them, or engaged with them, Therefore worthy Sir, as a member of Jesus Christ; and of this present Common-wealth, I thought civilly to admonish your Honour, as Speaker of the Honorable House, to communicate this let<g ref="char:EOLhyphen"/>letter to the Honorable Hous, &amp; lest your Honours should be ignorant of the truth of the premises (as upon <hi>Saturday</hi> I did intimate thus much to Mr. <hi>Hill,</hi> Chair-man to the Ho<g ref="char:EOLhyphen"/>norable and select Committee, sitting in the Exchequer
+<pb n="5" facs="tcp:204924:3"/> Chamber, appointed for the hearing, examining of the great business between Mr. <hi>Primate,</hi> Sir <hi>Arthur Haslerig,</hi> and to Mr. <hi>Lilliborn Long</hi> a worthy member of the same, and sent to them the true Goppy of the Articles of High Treason, against the one and the true Coppy of the Appeal against the other) so I now likewise herein inclosed send to your Honor the like to be also communicated to the Honourable House, which I do expect that your Honor do faithfully perform, as your duty to the Parliament and Common-wealth of <hi>England,</hi> and for avoiding of future blame or question that may happen to arise, in case it be neglected: and so I rest, your Honors most humble <hi>Servant</hi>
+            </p>
+            <closer>
+               <signed>
+                  <hi>and Member of Jesus Christ, and of this pre<g ref="char:EOLhyphen"/>sent Common-wealth, Thomas Elsliot</hi> Ar. Ar. Conq.</signed>
+               <dateline>Given from my Lodging at the House of Mr. <hi>Parsons</hi> in the Woolstaple. <hi>West<g ref="char:EOLhyphen"/>minster,</hi>
+                  <date>this 30. of <hi>December</hi> 1651.</date>
+               </dateline>
+            </closer>
+            <postscript>
+               <p>
+                  <hi>Mem.</hi> that the Original of this Letter was deli<g ref="char:EOLhyphen"/>vered to Mr. Speaker, going it to the Parliament House, by Mr. <hi>Stephen Sidenham,</hi> in the presence of Mr. <hi>John Candler,</hi> and Mr. <hi>Thomas Rudston,</hi> the 30. of <hi>December,</hi> 1651. between eight and nine a clock in the morning, and was immediately faith<g ref="char:EOLhyphen"/>fully Communicated to the House; witness Ser<g ref="char:EOLhyphen"/>giant <hi>Birkhead.</hi>
+               </p>
+               <p>Thus indorsed, to the Honorable Speaker of the H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nourable Parliament of the Common-wealth of <hi>England,</hi> the supreme Judicature of the English Nation, to be faithfully communicated, to the Honorable Assembly in the Parliament Hous; with speed &amp; care these present forthwith.</p>
+               <closer>
+                  <signed>By <hi>Thomas Elsliot</hi> Ar. Ar. Conq.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="letter">
+            <pb n="6" facs="tcp:204924:4"/>
+            <opener>
+               <salute>My Lords,</salute>
+            </opener>
+            <p>AS I have from my infancy known your Lordships to be just and honest Gentlemen of the <hi>English</hi> Nation, and Learned men in the Laws of this Commonwealth; and as for my Lord <hi>Whitlock,</hi> Sir, I knew your Father, who was a Reverend Judge of this Nation many years, and knew the Common Law of the same; but had he lived untill this Age, he would have blushed, as well as his Scarlet Robes, to have seen such gross injustice done in a Commonwealth of <hi>English</hi> men, who be a wise and an ingenuous People; and I am confident, that as he was a worthy Patriot of this Commonwealth in his age, and died a good man and a Christian, so Sir, I hope that your Honors and Dignities coming to a higher and more eminent pitch of preferment in this Commonwealth, will not make your Honor to swerve in the least from his Vertues, but rather strive to excell them (as in your Honors, several Relations and Capacities, as be<g ref="char:EOLhyphen"/>ing both a Member of the Honorable Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> and a Councellor of State, and one of the Lords, Keepers of the Great Seal of <hi>England</hi>) and as for my Lord <hi>Keble,</hi> his Vertues, Abilities in the Laws of this Nation, and fidelity to the Commonwealth, is sufficiently known to all honest and Godly men of this Nation, but especially to the Soldiery, who be my Superiors: Nevertheless my Lords, I give your Honors to understand, and I beseech your Honors to take notice hereby, That I a Member of Jesus Christ, and of this present Commonwealth, can but wonder and ad<g ref="char:EOLhyphen"/>mire, how two such Honorable persons and sage Judges of the people of this Commonwealth, and worthy Patriots of the known and Fundamentall Laws of this Nation, do daily permit (one <hi>Edmond Prideaux</hi> and his Complices, persons impeached of high Treason, as may appear by the Records
+<pb n="7" facs="tcp:204924:4"/> of the Capitall Office the last day of the last <hi>Michaelmas</hi> Term) legally exhibited to come into your Honors presence (as I hear) or do suffer to plead before your Honors any of the Causes of the Free born persons of this Nation, when as in truth, in their Capacities, they neither be <hi>(probi vel legales homines)</hi> of this Commonwealth, until they have fair<g ref="char:EOLhyphen"/>ly received their Trials, and be acquitted of their crimes they stand charged withall; and lest your Honors should be igno<g ref="char:EOLhyphen"/>rant thereof (as I have done and intimated to Mr. <hi>Hill</hi> Chair<g ref="char:EOLhyphen"/>man of the Honorable Committee sitting upon Saturday last in the Exchequer Chamber, appointed by the Honora<g ref="char:EOLhyphen"/>ble Parliament to hear the great Cause between Mr. <hi>Primat</hi> and Sir <hi>Arthur Haslerig,</hi> and to Mr. <hi>Lilliborn Long</hi> a worthy Member thereof, and did the like upon Tuesday morning last by my Letters unto the honorable Mr. Speaker of the ho<g ref="char:EOLhyphen"/>norable parliament of the Commonwealth, and sent unto each of them the true Copies in Print (<hi>Errataes</hi> of the Printer excepted) but I am sure the Record with Mr. <hi>Brough<g ref="char:EOLhyphen"/>ton</hi> is perfect, and such as I and the Traitors will and shall abide with our lives and fortunes (they in their capacities, and I in mine) And I let your Lordships know further, that whereas the Traitor <hi>Prideaux</hi> (to hide his and his complices treasons, from the Parliament, Army and Commonwealth, did stop the impress of the Records of their Treasons, and o<g ref="char:EOLhyphen"/>ther crimes, by means whereof the Originall Copie came to be adulterated; yet there be now one thousand more printed and sent and dispersed into the Commonwealth and Army, <hi>Scotland</hi> and <hi>Ireland,</hi> albeit this inclosed is of the first Im<g ref="char:EOLhyphen"/>press: And my Lords, I charge your Lordships in my seve<g ref="char:EOLhyphen"/>ral Capacities, That your Lordships as Keepers of the great Seal of <hi>England</hi> under the Keepers of the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by Authority of Parliament, and on their behalf, and on my own behalf, and on the behalf of every free born per<g ref="char:EOLhyphen"/>son of this Commonwealth, that hath ingaged with the pre<g ref="char:EOLhyphen"/>sent Commonwealth; as also on the behalf of the whole Ar<g ref="char:EOLhyphen"/>my and Soldiery, now under the Command of <hi>Oliver Crom<g ref="char:EOLhyphen"/>well</hi> Esquire, Captain General of all the Parliament and <hi>En<g ref="char:EOLhyphen"/>glish</hi>
+               <pb n="8" facs="tcp:204924:5"/> Force, and Lord Governor of <hi>Ireland,</hi> that your Lordships do your honors uttermost indeavours to secure the persons of the said Traitors, and cause them to be deli<g ref="char:EOLhyphen"/>vered to the Marshall of the upper Bench Prison, to the end that in the beginning of the next <hi>Hillary</hi> Term, they may be forth coming before the Honorable Lo<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d Chief Ju<g ref="char:EOLhyphen"/>stice <hi>Roll,</hi> and the rest of the Reverend Judges of the upper Bench Court, before the Keepers of the Liberties of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> by Authority of Parliament, to answer their Treasons and other Crimes (the particulars this inclosed will duely inform your Lordships) And that your Honors may know that I expect an Account hereof in my several Capacities; I let your Lordships know that I have sent the true Dupli<g ref="char:EOLhyphen"/>cate hereof to my Superiors, as also to the press, together with Mr. Speakers, Mr. <hi>Hills</hi> and Mr. <hi>Longes</hi> Letters written by me to them: and so I rest,</p>
+            <closer>
+               <dateline>Given from my Lodging in the <hi>Woolstaple, West<g ref="char:EOLhyphen"/>minster</hi> from Mr. <hi>Parsons</hi> house,
+<date>this present first day of <hi>January 1651.</hi> (called New-years day)</date>
+               </dateline>
+               <signed>
+                  <hi>Your Lordships most hum<g ref="char:EOLhyphen"/>ble Servant and Member of Jesus Christ, and Mem<g ref="char:EOLhyphen"/>ber of this present Com<g ref="char:EOLhyphen"/>monwealth, THO. ELSLIOT.</hi> Ar. Ar. Conq;.</signed>
+            </closer>
+            <postscript>
+               <p>To the Right honorable the L. <hi>Whitlock</hi> and L: <hi>Keble,</hi> two of the Commissioners of the great Seal of <hi>England,</hi> to be delivered to the Lord <hi>Whitlock</hi> only to be commu<g ref="char:EOLhyphen"/>nicated to the Lord <hi>Keble</hi> with care and trust forth<g ref="char:EOLhyphen"/>with.</p>
+               <p>This was delivered by Esq; <hi>Lewes Poyntz,</hi> Sergeant <hi>Deu<g ref="char:EOLhyphen"/>dyes</hi> brother according to the direction on Friday the se<g ref="char:EOLhyphen"/>cond of January 1651.</p>
+               <closer>
+                  <signed>By <hi>Tho. Elslyott.</hi> Ar. Ar. Conq;.</signed>
+               </closer>
+            </postscript>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:204924:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
